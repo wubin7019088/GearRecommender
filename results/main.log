@@ -1,0 +1,4 @@
+2016-09-23 10:38:48,921 - main - INFO - ['AVERAGE', array(1.194058882601618), {'recommend_new': 1, 'display': 1, 'n': 50}] training end! time cost:0:00:30.710000
+2016-09-23 10:39:07,829 - main - INFO - ['TopN', array(3.245585884064236), {'recommend_new': 1, 'display': 1, 'n': 5}] training end! time cost:0:00:49.597000
+2016-09-23 10:41:29,596 - main - INFO - ['BPR', array(0.0003859091606548424), {'negative_item_regularization': 0.001, 'user_regularization': 0.001, 'bias_regularization': 0.001, 'factors': 50, 'recommend_new': 1, 'learning_rate': 0.001, 'iter': 2, 'n': 5, 'positive_item_regularization': 0.001, 'display': 1}] training end! time cost:0:03:11.228000
+2016-09-23 10:42:26,984 - main - INFO - ['BiasedFM', array(1.100603539376591), {'factors': 25, 'recommend_new': 1, 'iter': 1, 'n': 50, 'learningrate': 0.01, 'itemregular': 0.1, 'userregular': 0.1, 'display': 1}] training end! time cost:0:04:08.585000

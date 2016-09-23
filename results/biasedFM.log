@@ -1,0 +1,2 @@
+2016-09-23 10:38:19,723 - biasedFM - INFO - Factors: 25 learningrate: 0.01 userregular: 0.1 itemregular: 0.1 iter:1 TopN:50
+2016-09-23 10:39:37,408 - biasedFM - INFO - training loss: 44455.8871141,  test RMSE: 1.10060353938
